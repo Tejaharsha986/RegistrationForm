@@ -1,0 +1,16 @@
+table{
+    width:75%;
+  }
+  caption{
+    text-align:centre;
+    caption-side:top;
+  }
+  td, th, table{
+    border:2px solid;
+  }
+  td{
+    padding:10px;
+  }
+  #r1{
+    background:yellowgreen;
+  }
